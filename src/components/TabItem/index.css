@@ -1,0 +1,10 @@
+.tabButton {
+  border: solid 0px;
+  background-color: transparent;
+  font-size: 19px;
+  font-family: bree serif;
+}
+.styleButton {
+  color: #2563eb;
+  border-bottom: #2563eb solid 2px;
+}

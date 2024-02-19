@@ -1,0 +1,23 @@
+.app-container {
+  background-color: #ffffff;
+  height: 120px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 25px;
+  border-radius: 12px;
+}
+.image-logo-container {
+  align-self: center;
+  padding-top: 8px;
+}
+.app-icon {
+  height: 50px;
+}
+.app-name-container {
+  align-self: center;
+}
+.app-text {
+  font-size: 15px;
+}
